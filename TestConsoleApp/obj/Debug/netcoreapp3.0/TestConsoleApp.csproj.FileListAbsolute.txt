@@ -1,0 +1,11 @@
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.0\TestConsoleApp.exe
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.0\TestConsoleApp.deps.json
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.0\TestConsoleApp.runtimeconfig.json
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.0\TestConsoleApp.runtimeconfig.dev.json
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.0\TestConsoleApp.dll
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\netcoreapp3.0\TestConsoleApp.pdb
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.0\TestConsoleApp.csprojAssemblyReference.cache
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.0\TestConsoleApp.dll
+C:\Users\Minsoft\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\netcoreapp3.0\TestConsoleApp.pdb
