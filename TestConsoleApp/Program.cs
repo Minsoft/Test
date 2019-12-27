@@ -36,7 +36,7 @@ namespace TestConsoleApp
 
             Employee.PromoteEmployee(empList, emp =>
             {
-                return emp.Salary > 60000;
+                return emp.Salary > 70000;
             });
         }
 
